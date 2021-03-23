@@ -1,0 +1,24 @@
+﻿  Pb3Final.cpp
+C:\Users\catyb\Downloads\Pb3Final.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'punct' when no variable is declared
+C:\Users\catyb\Downloads\Pb3Final.cpp(35,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(227,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(227,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(228,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(228,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(236,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(236,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(237,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(237,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(248,92): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(248,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(248,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(266,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(266,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(266,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\catyb\Downloads\Pb3Final.cpp(281,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\catyb\Downloads\Pb3Final.cpp(289,15): warning C4101: 'aria2': unreferenced local variable
+C:\Users\catyb\Downloads\Pb3Final.cpp(289,8): warning C4101: 'aria1': unreferenced local variable
+C:\Users\catyb\Downloads\Pb3Final.cpp(289,22): warning C4101: 'aria3': unreferenced local variable
+C:\Users\catyb\Downloads\Pb3Final.cpp(288,9): warning C4101: 'j': unreferenced local variable
+C:\Users\catyb\Downloads\Pb3Final.cpp(289,29): warning C4101: 'ariat': unreferenced local variable
+  Tema3Pbs.vcxproj -> C:\GL\Tema3Pbs\Debug\Tema3Pbs.exe
