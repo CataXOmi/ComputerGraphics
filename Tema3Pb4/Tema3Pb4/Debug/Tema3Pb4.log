@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'punct' when no variable is declared
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(76,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(76,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(77,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(77,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(85,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(85,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(86,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(86,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(101,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(101,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(113,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(113,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(127,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(127,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(138,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(138,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Tema3Pb4\Tema3Pb4\main.cpp(145,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema3Pb4.vcxproj -> C:\GL\Tema3Pb4\Debug\Tema3Pb4.exe

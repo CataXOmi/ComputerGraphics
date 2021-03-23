@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(48,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(49,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(70,19): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(71,19): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(92,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(93,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(114,22): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(115,22): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(135,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(136,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Tema3Pb1\Tema3Pb1\main.cpp(286,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema3Pb1.vcxproj -> C:\GL\Tema3Pb1\Debug\Tema3Pb1.exe

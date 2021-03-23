@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\GL\Tema3Pb3\Tema3Pb3\main.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'punct' when no variable is declared
+C:\GL\Tema3Pb3\Tema3Pb3\main.cpp(72,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema3Pb3.vcxproj -> C:\GL\Tema3Pb3\Debug\Tema3Pb3.exe
