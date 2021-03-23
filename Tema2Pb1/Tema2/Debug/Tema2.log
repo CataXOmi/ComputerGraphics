@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tema2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\GL\Tema2\Tema2\main.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'punct' when no variable is declared
+C:\GL\Tema2\Tema2\main.cpp(85,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Tema2\Tema2\main.cpp(86,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(86,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(87,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(87,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(88,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Tema2\Tema2\main.cpp(89,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(89,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(90,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(90,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(98,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(98,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2\Tema2\main.cpp(105,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema2.vcxproj -> C:\GL\Tema2\Debug\Tema2P1.exe

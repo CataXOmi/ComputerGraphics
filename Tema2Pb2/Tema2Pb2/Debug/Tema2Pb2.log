@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'punct' when no variable is declared
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(23,2): warning C4091: 'typedef ': ignored on left of 'muchie' when no variable is declared
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(106,32): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(106,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(107,32): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(107,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Tema2Pb2\Tema2Pb2\main.cpp(129,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema2Pb2.vcxproj -> C:\GL\Tema2Pb2\Debug\Tema2Pb2.exe

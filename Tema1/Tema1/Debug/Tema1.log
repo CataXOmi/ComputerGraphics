@@ -1,0 +1,6 @@
+﻿  01_L_1_exemplu.cpp
+C:\GL\Tema1\Tema1\01_L_1_exemplu.cpp(7,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\GL\Tema1\Tema1\01_L_1_exemplu.cpp(18,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Tema1\Tema1\01_L_1_exemplu.cpp(21,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Tema1\Tema1\01_L_1_exemplu.cpp(37,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tema1.vcxproj -> C:\GL\Tema1\Debug\Tema1.exe
